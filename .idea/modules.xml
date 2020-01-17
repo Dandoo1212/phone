@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/App/App.iml" filepath="$PROJECT_DIR$/App/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/App/App (1).iml" filepath="$PROJECT_DIR$/App/App (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-Git.iml" filepath="$PROJECT_DIR$/Maven-Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pesel/Pesel.iml" filepath="$PROJECT_DIR$/Pesel/Pesel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneNumber/PhoneNumber.iml" filepath="$PROJECT_DIR$/PhoneNumber/PhoneNumber.iml" />
+    </modules>
+  </component>
+</project>

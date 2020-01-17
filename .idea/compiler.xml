@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Pesel" />
+        <module name="PhoneNumber" />
+        <module name="App (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="App" target="11" />
+      <module name="App (1)" target="11" />
+      <module name="Maven-Git" target="11" />
+      <module name="Pesel" target="11" />
+      <module name="PhoneNumber" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+com\britenet\service\PhoneNumberTypeRecognizer.class
+com\britenet\service\PhoneNumberFormatter.class
+com\britenet\service\PhoneNumberService.class
+com\britenet\service\PhoneNumberType.class
+com\britenet\service\PhoneNumber.class
+com\britenet\service\PhoneNumberFacade.class
