@@ -1,7 +1,7 @@
-import com.britenet.converter.PeselFacade;
-import com.britenet.converter.PeselInfo;
-import com.britenet.service.PhoneNumber;
-import com.britenet.service.PhoneNumberFacade;
+import com.kul.converter.PeselFacade;
+import com.kul.converter.PeselInfo;
+import com.kul.service.PhoneNumber;
+import com.kul.service.PhoneNumberFacade;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
-import com.britenet.converter.PeselFacade;
-import com.britenet.service.PhoneNumberFacade;
+import com.kul.converter.PeselFacade;
+import com.kul.service.PhoneNumberFacade;
 
 public class Main {
 
